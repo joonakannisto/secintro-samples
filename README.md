@@ -41,6 +41,8 @@ You can use this repository in two ways.
 
 git clone https://github.com/joonakannisto/secintro-samples.git secintro 
 
+If new code appears in the repository, you just run git pull to be in sync again. The course staff  should not be alter old files to prevent conflicts from happening during the course. 
+
 2) If you have a Github account you may fork this repository and clone it from your own user page, (Not Recommended) 
 
 If you clone the repository and push your local changes upstream, you need to make the repository private, or push the changes only after the week's session. You can also make a completely detached repo by changing the repository origin to an empty repository not linked to the original (security through obscurity). 
