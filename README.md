@@ -19,7 +19,7 @@ Go is very strict about a lot of things, such as unused variables. However, once
 Python
 ------
 
-Because some of the students are more familiar with Python (or otherwise brain damaged) some Python examples are provided as well. If the exercise depends heavily on some library, or the dude making the exercise work has found good copypaste sources only in the other language, either python sample or Golang sample could be omitted. 
+Because some of the students are more familiar with Python (or have personal issues with Golang) some Python examples are provided as well. If the exercise depends heavily on some library, or the dude making the exercise work has found good copypaste sources only in the other language, either python sample or Golang sample could be omitted. 
 
 Building Python
 ===============
@@ -32,3 +32,15 @@ or
 ./ex-1-4.py 
 
 (provided that the python source is marked with executable bit (chmod +x ex-1-4.py)) 
+
+Using Git 
+=========
+Git is a version control system. Using a version control system shows love and respect to you precious source code files. 
+You can use this repository in two ways. 
+1) Clone this repository on linux-ssh or some other host directly without forking. No upstream push with this origin. 
+
+git clone https://github.com/joonakannisto/secintro-samples.git secintro 
+
+2) If you have a Github account you may fork this repository and clone it from your own user page, (Not Recommended) 
+
+If you clone the repository and push your local changes upstream, you need to make the repository private, or push the changes only after the week's session. You can also make a completely detached repo by changing the repository origin to an empty repository not linked to the original (security through obscurity). 
