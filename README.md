@@ -9,7 +9,11 @@ The Go samples can be run in the Go playground at https://play.golang.org or com
 Building and Running code with Go 
 ---------------------------------
 go build ex-1-4.go
+
 ./ex-1-4 
+
+Python
+------
 
 Because some of the students are more familiar with Python (or otherwise brain damaged) some Python examples are provided as well. If the exercise depends heavily on some library, or the dude making the exercise work has found good copypaste sources only in the other language, either python sample or Golang sample could be omitted. 
 
