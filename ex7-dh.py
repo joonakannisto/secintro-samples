@@ -11,7 +11,7 @@ print GENERATOR
 # Mark = M
 # Jonathan = J
 
-M_Secret = 89
+M_Secret =123
 
 print M_Secret
 
